@@ -2,6 +2,6 @@
 
 #### Deployment:  <a href="https://T236522vfbfb.github.io/Diplom-BOT/">Github Pages</a>
 
-#### Backend:  <a href="https://github.com/T236522vfbfb/Diplom-BOT_b">Repository</a>
+[//]: # #### Backend:  <a href="https://github.com/T236522vfbfb/Diplom-BOT_b">Repository</a>
 
-#### Server:  <a href="https://Diplom-BOT.onrender.com">Render</a>
+[//]: # #### Server:  <a href="https://Diplom-BOT.onrender.com">Render</a>*
