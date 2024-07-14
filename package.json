@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "engines": {
-    "node": "14.17.6",
-    "npm": "7.24.0"
-  },
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack --config config/webpack.prod.js",
     "start": "cross-env NODE_ENV=development webpack serve --config config/webpack.dev.js",
@@ -18,7 +14,7 @@
     "doc": "jsdoc -c jsdoc.conf.json"
   },
   "keywords": [],
-  "author": "Sergius92739",
+  "author": "",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.15.8",

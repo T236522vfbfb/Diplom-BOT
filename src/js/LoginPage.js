@@ -8,7 +8,7 @@ export default class LoginPage {
       throw new Error('element is not HTMLElement');
     }
     this.container = element;
-    this.baseURL = 'https://ahj-diploma-chaos-organizer.onrender.com';
+    this.baseURL = 'https://Diplom-BOT.onrender.com';
     this.mainPage = new MainPage(this.container, this.baseURL);
 
     this.onLoginFormSubmit = this.onLoginFormSubmit.bind(this);
